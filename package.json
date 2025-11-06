@@ -1,0 +1,42 @@
+{
+  "name": "betheme",
+  "displayName": "BeTheme Collection",
+  "description": "Colección de temas optimizados para desarrollo académico y científico.",
+  "publisher": "custom-local",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BeTheme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/betheme-dark-theme.json"
+      },
+      {
+        "label": "BeTheme Light",
+        "uiTheme": "vs",
+        "path": "./themes/betheme-light-theme.json"
+      },
+      {
+        "label": "Forest Firelight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-firelight-theme.json"
+      },
+      {
+        "label": "Neon Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-forest-theme.json"
+      },
+      {
+        "label": "Gradient Flow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gradient-flow-theme.json"
+      }
+    ]
+  }
+}
