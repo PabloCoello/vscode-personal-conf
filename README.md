@@ -99,6 +99,27 @@ Tema oscuro con paleta azul-verde optimizada para Python y R.
 - Números: `#78C6AA`
 - Types: `#108AB1`
 
+### Chalk Light
+Tema claro minimalista inspirado en Everforest con colores pastel intensos y UI sin bordes.
+
+**Colores principales:**
+- Fondo: `#F5F3ED` (beige off-white)
+- Texto: `#5A5854`
+- Keywords: `#B5674F` (terracota)
+- Funciones: `#6B9456` (verde oliva)
+- Strings: `#87AB6E` (verde pastel)
+- Números: `#C99647` (dorado)
+- Types: `#5A8DAD` (azul)
+- Constants: `#8B72BA` (lavanda)
+- Operators: `#5AA592` (cyan)
+- Comentarios: `#8A857A`
+
+**Características especiales:**
+- UI minimalista sin bordes visibles entre paneles
+- Texto flotante para máxima concentración
+- Colores intensos pero cómodos para lectura prolongada
+- Optimizado para Python, R, Markdown y Quarto
+
 ## 🛠️ Lenguajes Soportados
 
 - Python
@@ -117,6 +138,7 @@ Los archivos de configuración de cada tema están en la carpeta `themes/`:
 - `forest-firelight-theme.json`
 - `neon-forest-theme.json`
 - `gradient-flow-theme.json`
+- `chalk-light-theme.json`
 
 Modifica estos archivos para personalizar los colores según tus preferencias.
 

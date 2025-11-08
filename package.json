@@ -2,7 +2,7 @@
   "name": "betheme",
   "displayName": "BeTheme Collection",
   "description": "Colección de temas optimizados para desarrollo académico y científico.",
-  "publisher": "custom-local",
+  "publisher": "pablocoello",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.60.0"
@@ -36,6 +36,11 @@
         "label": "Gradient Flow",
         "uiTheme": "vs-dark",
         "path": "./themes/gradient-flow-theme.json"
+      },
+      {
+        "label": "Chalk Light",
+        "uiTheme": "vs",
+        "path": "./themes/chalk-light-theme.json"
       }
     ]
   }
