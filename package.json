@@ -1,9 +1,9 @@
 {
-  "name": "betheme",
-  "displayName": "BeTheme Collection",
-  "description": "Colección de temas optimizados para desarrollo académico y científico.",
+  "name": "vscode-personal-conf",
+  "displayName": "VS Code Personal Configuration",
+  "description": "Configuración personal completa de VS Code incluyendo settings, keybindings, extensiones y temas personalizados.",
   "publisher": "pablocoello",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.60.0"
   },

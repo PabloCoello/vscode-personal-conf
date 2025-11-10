@@ -1,0 +1,57 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Backups
+*.backup
+*.bak
+*-backup-*/
+
+# Directorios de entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.idea/
+.vscode/.ropeproject
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Archivos de configuración local
+local.json
+.env
+.env.local
+
+# Archivos de VS Code que no queremos versionar
+.vscode/settings.json.backup
+.vscode/*.log
