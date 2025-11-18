@@ -14,5 +14,6 @@
   "davidanson.vscode-markdownlint",
   "quarto.quarto",
   "redhat.vscode-yaml",
-  "ms-vscode.live-server"
+  "ms-vscode.live-server",
+  "PKief.material-icon-theme"
 ]
