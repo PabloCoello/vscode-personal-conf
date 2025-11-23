@@ -65,9 +65,46 @@
     "terminal.ansiBrightBlue": "#77CCFF",
     "terminal.ansiBrightMagenta": "#D199FF",
     "terminal.ansiBrightCyan": "#99DDFF",
-    "terminal.ansiBrightWhite": "#FFFFFF"
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "editorIndentGuide.background1": "#1A191E00",
+    "editorIndentGuide.background2": "#1A191E00",
+    "editorIndentGuide.background3": "#1A191E00",
+    "editorIndentGuide.activeBackground1": "#7C9DDA6E",
+    "editorIndentGuide.activeBackground2": "#7C9DDA6E",
+    "editorIndentGuide.activeBackground3": "#7C9DDA6E"
   },
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
+  "semanticTokenColors": {
+    "keyword": "#FF7799",
+    "operator": "#FF8866",
+    "string": "#66D9B8",
+    "number": "#FFD666",
+    "boolean": "#FFD666",
+    "comment": "#B8BCC8",
+    "namespace": "#77FFB3",
+    "type": "#E27056",
+    "struct": "#E27056",
+    "class": "#E27056",
+    "enum": "#E27056",
+    "typeParameter": "#E27056",
+    "function": "#C299FF",
+    "function.defaultLibrary": "#FFAA7A",
+    "method": "#C299FF",
+    "parameter": "#77CCFF",
+    "property": "#F2F4F5",
+    "variable": "#F2F4F5",
+    "variable.readonly": "#E6E6FA",
+    "variable.defaultLibrary": "#FFAA7A",
+    "selfParameter": {
+      "foreground": "#FFAA7A",
+      "fontStyle": "italic"
+    },
+    "decorator": "#FF7FCB",
+    "macro": "#FF7FCB",
+    "enumMember": "#FFDD77",
+    "event": "#C299FF",
+    "label": "#FF99CC"
+  },
   "tokenColors": [
     {
       "scope": [
