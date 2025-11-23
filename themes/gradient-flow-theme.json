@@ -115,7 +115,7 @@
       ],
       "settings": {
         "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
@@ -126,8 +126,7 @@
         "meta.function-call"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -158,8 +157,7 @@
         "entity.name.class"
       ],
       "settings": {
-        "foreground": "#108AB1",
-        "fontStyle": "bold"
+        "foreground": "#108AB1"
       }
     },
     {
@@ -170,7 +168,7 @@
       ],
       "settings": {
         "foreground": "#FF8A65",
-        "fontStyle": "bold underline"
+        "fontStyle": "underline"
       }
     },
     {
@@ -180,8 +178,7 @@
         "support.type.python"
       ],
       "settings": {
-        "foreground": "#108AB1",
-        "fontStyle": "bold"
+        "foreground": "#108AB1"
       }
     },
     {
@@ -190,8 +187,7 @@
         "entity.name.function.python"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -201,8 +197,7 @@
         "punctuation.definition.decorator.python"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -221,8 +216,7 @@
         "support.function.magic.python"
       ],
       "settings": {
-        "foreground": "#78C6AA",
-        "fontStyle": "bold"
+        "foreground": "#78C6AA"
       }
     },
     {
@@ -233,8 +227,7 @@
         "keyword.operator.logical.python"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -319,8 +312,7 @@
         "support.function.r"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -338,8 +330,7 @@
         "keyword.operator.assignment.r"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -348,8 +339,7 @@
         "keyword.operator.pipe.r"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -378,8 +368,7 @@
         "support.class.r"
       ],
       "settings": {
-        "foreground": "#108AB1",
-        "fontStyle": "bold"
+        "foreground": "#108AB1"
       }
     },
     {
@@ -388,8 +377,7 @@
         "keyword.control.r"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -426,8 +414,7 @@
         "support.function.tidyverse.r"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -436,8 +423,7 @@
         "support.function.ggplot2.r"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -446,8 +432,7 @@
         "support.function.dplyr.r"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -457,8 +442,7 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -467,8 +451,7 @@
         "markup.bold.markdown"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     },
     {
@@ -516,8 +499,7 @@
         "entity.name.tag.yaml"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -602,8 +584,7 @@
         "support.function.statistical.r"
       ],
       "settings": {
-        "foreground": "#06D7A0",
-        "fontStyle": "bold"
+        "foreground": "#06D7A0"
       }
     },
     {
@@ -613,8 +594,7 @@
         "support.function.plot.r"
       ],
       "settings": {
-        "foreground": "#FF8A65",
-        "fontStyle": "bold"
+        "foreground": "#FF8A65"
       }
     }
   ]
