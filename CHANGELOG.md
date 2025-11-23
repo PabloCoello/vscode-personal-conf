@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0] - 2025-11-23
+
+### Removed
+
+- BeTheme Light theme
+- Neon Forest theme
+
+### Changed
+
+- Documentación y `package.json` actualizados para reflejar la colección de 4 temas restantes (BeTheme Dark, Forest Firelight, Gradient Flow y Chalk Light).
+
 ## [2.0.0] - 2025-11-08
 
 ### 🎉 Major Release - Configuración Completa de VS Code
