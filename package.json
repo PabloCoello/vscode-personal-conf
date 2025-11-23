@@ -1,9 +1,9 @@
 {
-  "name": "betheme",
-  "displayName": "BeTheme Collection",
-  "description": "Colección de temas optimizados para desarrollo académico y científico.",
+  "name": "vscode-personal-conf",
+  "displayName": "VS Code Personal Configuration",
+  "description": "Configuración personal completa de VS Code incluyendo settings, keybindings, extensiones y temas personalizados.",
   "publisher": "pablocoello",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -18,19 +18,9 @@
         "path": "./themes/betheme-dark-theme.json"
       },
       {
-        "label": "BeTheme Light",
-        "uiTheme": "vs",
-        "path": "./themes/betheme-light-theme.json"
-      },
-      {
         "label": "Forest Firelight",
         "uiTheme": "vs-dark",
         "path": "./themes/forest-firelight-theme.json"
-      },
-      {
-        "label": "Neon Forest",
-        "uiTheme": "vs-dark",
-        "path": "./themes/neon-forest-theme.json"
       },
       {
         "label": "Gradient Flow",
