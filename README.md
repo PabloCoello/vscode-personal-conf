@@ -7,7 +7,7 @@ Configuración personal completa de Visual Studio Code incluyendo settings, keyb
 - ⚙️ **Settings personalizados**: Configuración optimizada para desarrollo
 - ⌨️ **Keybindings**: Atajos de teclado personalizados
 - 🧩 **Extensiones**: Lista de extensiones esenciales para desarrollo
-- 🎨 **Temas personalizados**: 6 temas únicos diseñados para distintos estilos
+- 🎨 **Temas personalizados**: 4 temas únicos diseñados para distintos estilos
 - 📦 **Instalación automatizada**: Scripts para macOS/Linux y Windows
 - 💾 **Backup fácil**: Sincroniza tu configuración actual con el repositorio
 
@@ -127,14 +127,8 @@ make clean           # Limpiar archivos temporales
 ### BeTheme Dark
 Tema oscuro profesional con fondo `#1E1E1E` y paleta de colores neutros. Ideal para sesiones largas de programación.
 
-### BeTheme Light
-Tema claro minimalista con fondo `#FFFFFF`. Perfecto para trabajar en ambientes con mucha luz.
-
 ### Forest Firelight
 Tema oscuro con tonos verdes y naranjas cálidos inspirado en la naturaleza. Excelente para reducir la fatiga visual.
-
-### Neon Forest
-Tema oscuro vibrante con colores neón de alto contraste. Perfecto para destacar la sintaxis y mejorar la legibilidad.
 
 ### Gradient Flow
 Tema oscuro con paleta azul-verde optimizada específicamente para Python y R. Ideal para ciencia de datos.
@@ -159,9 +153,7 @@ vscode-personal-conf/
 │   └── extensions.txt        # Lista de extensiones (formato texto)
 ├── themes/                   # Temas personalizados
 │   ├── betheme-dark-theme.json
-│   ├── betheme-light-theme.json
 │   ├── forest-firelight-theme.json
-│   ├── neon-forest-theme.json
 │   ├── gradient-flow-theme.json
 │   └── chalk-light-theme.json
 ├── scripts/                  # Scripts de automatización
