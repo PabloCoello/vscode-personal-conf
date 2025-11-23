@@ -98,7 +98,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#7C9DDA"
+        "foreground": "#FF7799"
       }
     },
     {
@@ -135,7 +135,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#C6D2E8"
+        "foreground": "#E27056"
       }
     },
     {
@@ -164,8 +164,7 @@
         "support.type.python"
       ],
       "settings": {
-        "foreground": "#FF99CC",
-        "fontStyle": "bold"
+        "foreground": "#E27056"
       }
     },
     {
@@ -175,7 +174,7 @@
         "punctuation.definition.decorator.python"
       ],
       "settings": {
-        "foreground": "#FFAA66",
+        "foreground": "#FF7FCB",
         "fontStyle": "italic"
       }
     },
@@ -185,7 +184,7 @@
         "support.function.builtin.python"
       ],
       "settings": {
-        "foreground": "#66CCFF"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -204,7 +203,7 @@
         "keyword.control.flow.python"
       ],
       "settings": {
-        "foreground": "#FF9999"
+        "foreground": "#FF7799"
       }
     },
     {
@@ -213,7 +212,7 @@
         "variable.language.special.self.python"
       ],
       "settings": {
-        "foreground": "#FF99CC",
+        "foreground": "#FFAA7A",
         "fontStyle": "italic"
       }
     },
@@ -315,7 +314,7 @@
         "variable.other.object.property.js"
       ],
       "settings": {
-        "foreground": "#FF99CC"
+        "foreground": "#FF7FCB"
       }
     },
     {
@@ -331,13 +330,44 @@
       "name": "Operators",
       "scope": [
         "keyword.operator",
-        "keyword.operator.assignment",
         "keyword.operator.arithmetic",
-        "keyword.operator.comparison",
         "keyword.operator.logical"
       ],
       "settings": {
         "foreground": "#FF8866"
+      }
+    },
+    {
+      "name": "Assignment operators",
+      "scope": [
+        "keyword.operator.assignment",
+        "keyword.operator.assignment.python",
+        "punctuation.separator.key-value"
+      ],
+      "settings": {
+        "foreground": "#FFAA7A"
+      }
+    },
+    {
+      "name": "Comparison operators",
+      "scope": [
+        "keyword.operator.comparison",
+        "keyword.operator.comparison.python",
+        "keyword.operator.relational"
+      ],
+      "settings": {
+        "foreground": "#FFAA7A"
+      }
+    },
+    {
+      "name": "Word operators",
+      "scope": [
+        "keyword.operator.word",
+        "keyword.operator.word.python",
+        "keyword.operator.logical.python"
+      ],
+      "settings": {
+        "foreground": "#FF7799"
       }
     },
     {
@@ -374,7 +404,7 @@
         "keyword.operator.assignment.r"
       ],
       "settings": {
-        "foreground": "#FF8866"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -421,7 +451,7 @@
         "constant.language.logical.r"
       ],
       "settings": {
-        "foreground": "#FF99CC"
+        "foreground": "#FF7FCB"
       }
     },
     {
