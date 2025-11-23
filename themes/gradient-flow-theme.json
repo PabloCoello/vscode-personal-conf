@@ -5,17 +5,17 @@
   "colors": {
     "editor.background": "#1E2A32",
     "editor.foreground": "#F5F5F5",
-    "editorCursor.foreground": "#FF8A65",
+    "editorCursor.foreground": "#FFAA7A",
     "editor.lineHighlightBackground": "#2A3740",
-    "editor.selectionBackground": "#FF8A6555",
-    "editor.inactiveSelectionBackground": "#FF8A6533",
+    "editor.selectionBackground": "#FFAA7A55",
+    "editor.inactiveSelectionBackground": "#FFAA7A33",
     "editor.wordHighlightBackground": "#06D7A055",
     "editor.wordHighlightStrongBackground": "#FFD16766",
     "sideBar.background": "#1E2A32",
     "sideBar.foreground": "#F5F5F5",
     "activityBar.background": "#16212A",
     "activityBar.foreground": "#06D7A0",
-    "activityBarBadge.background": "#FF8A65",
+    "activityBarBadge.background": "#FFAA7A",
     "activityBarBadge.foreground": "#FFFFFF",
     "statusBar.background": "#16212A",
     "statusBar.foreground": "#06D7A0",
@@ -31,8 +31,8 @@
     "list.hoverBackground": "#2A3740",
     "list.activeSelectionBackground": "#3A4A55",
     "list.activeSelectionForeground": "#F5F5F5",
-    "list.highlightForeground": "#FF8A65",
-    "badge.background": "#FF8A65",
+    "list.highlightForeground": "#FFAA7A",
+    "badge.background": "#FFAA7A",
     "badge.foreground": "#FFFFFF",
     "tab.activeBackground": "#1E2A32",
     "tab.inactiveBackground": "#16212A",
@@ -44,15 +44,15 @@
     "editorHoverWidget.background": "#2A3740",
     "editorHoverWidget.border": "#06D7A0",
     "diffEditor.insertedTextBackground": "#06D7A055",
-    "diffEditor.removedTextBackground": "#FF8A6555",
+    "diffEditor.removedTextBackground": "#FFAA7A55",
     "gitDecoration.addedResourceForeground": "#06D7A0",
     "gitDecoration.modifiedResourceForeground": "#FFD167",
-    "gitDecoration.deletedResourceForeground": "#FF8A65",
+    "gitDecoration.deletedResourceForeground": "#FFAA7A",
     "gitDecoration.untrackedResourceForeground": "#78C6AA",
     "terminal.background": "#1E2A32",
     "terminal.foreground": "#F5F5F5",
     "terminal.ansiBlack": "#16212A",
-    "terminal.ansiRed": "#FF8A65",
+    "terminal.ansiRed": "#FFAA7A",
     "terminal.ansiGreen": "#06D7A0",
     "terminal.ansiYellow": "#FFD167",
     "terminal.ansiBlue": "#108AB1",
@@ -71,17 +71,21 @@
     "editor.findMatchHighlightBackground": "#FFD16744",
     "editorLineNumber.foreground": "#6B7A88",
     "editorLineNumber.activeForeground": "#06D7A0",
-    "editorIndentGuide.background1": "#3A4A55",
-    "editorIndentGuide.activeBackground1": "#6B7A88",
+    "editorIndentGuide.background1": "#1E2A3200",
+    "editorIndentGuide.background2": "#1E2A3200",
+    "editorIndentGuide.background3": "#1E2A3200",
+    "editorIndentGuide.activeBackground1": "#FFAA7A55",
+    "editorIndentGuide.activeBackground2": "#FFAA7A55",
+    "editorIndentGuide.activeBackground3": "#FFAA7A55",
     "editorWhitespace.foreground": "#3A4A55",
     "editorRuler.foreground": "#3A4A55",
     "scrollbarSlider.background": "#6B7A8866",
     "scrollbarSlider.hoverBackground": "#6B7A8899",
     "scrollbarSlider.activeBackground": "#6B7A88CC",
-    "editorBracketMatch.background": "#FF8A6566",
-    "editorBracketMatch.border": "#FF8A65"
+    "editorBracketMatch.background": "#FFAA7A66",
+    "editorBracketMatch.border": "#FFAA7A"
   },
-  "semanticHighlighting": true,
+  "semanticHighlighting": false,
   "tokenColors": [
     {
       "name": "Comments",
@@ -114,7 +118,7 @@
         "keyword.control"
       ],
       "settings": {
-        "foreground": "#FF8A65",
+        "foreground": "#FFAA7A",
         "fontStyle": ""
       }
     },
@@ -167,7 +171,7 @@
         "invalid.illegal"
       ],
       "settings": {
-        "foreground": "#FF8A65",
+        "foreground": "#FFAA7A",
         "fontStyle": "underline"
       }
     },
@@ -197,7 +201,7 @@
         "punctuation.definition.decorator.python"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -227,7 +231,7 @@
         "keyword.operator.logical.python"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -236,7 +240,7 @@
         "variable.language.special.self.python"
       ],
       "settings": {
-        "foreground": "#108AB1",
+        "foreground": "#C299FF",
         "fontStyle": "italic"
       }
     },
@@ -246,7 +250,7 @@
         "support.type.exception.python"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -330,7 +334,7 @@
         "keyword.operator.assignment.r"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -339,7 +343,7 @@
         "keyword.operator.pipe.r"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -377,7 +381,7 @@
         "keyword.control.r"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -442,7 +446,7 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -451,7 +455,7 @@
         "markup.bold.markdown"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -532,16 +536,26 @@
       }
     },
     {
+      "name": "Comparison operators",
+      "scope": [
+        "keyword.operator.comparison",
+        "keyword.operator.comparison.python",
+        "keyword.operator.relational"
+      ],
+      "settings": {
+        "foreground": "#C299FF"
+      }
+    },
+    {
       "name": "Operators",
       "scope": [
         "keyword.operator",
         "keyword.operator.assignment",
         "keyword.operator.arithmetic",
-        "keyword.operator.comparison",
         "keyword.operator.logical"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     },
     {
@@ -594,7 +608,7 @@
         "support.function.plot.r"
       ],
       "settings": {
-        "foreground": "#FF8A65"
+        "foreground": "#FFAA7A"
       }
     }
   ]
